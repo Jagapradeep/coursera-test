@@ -36,8 +36,8 @@ h4 {
   height: 50px;
   padding-top: 10px;
   color: black;
-  border-left: 2px solid whitesmoke;
-  border-bottom: 2px solid whitesmoke;
+  border-left: 2px solid red;
+  border-bottom: 2px solid red;
   margin-bottom: 10px;
 }
 @media (min-width: 992px) {
@@ -77,7 +77,7 @@ h4 {
 div > div {
   margin-bottom: 10px;
   background-color: rgb(31, 30, 30);
-  border: 5px solid red;
+  border: 5px solid white;
 }
 p {
   color: white;
